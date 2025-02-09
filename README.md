@@ -4,7 +4,7 @@ The Joke API lets you get random jokes or jokes according to a type.
 
 The response from the API is a single JSON object that looks like this:
 
- {
+/* {
      "id": 166,
      "type": "general",
     "setup": "What did the beaver say to the tree?",
@@ -32,6 +32,7 @@ The response from the API is a single JSON object that looks like this:
     "setup": "Why do ducks make great detectives?",
     "punchline": "They always quack the case."
 }
+*/
 
 On POSTMAN:
 http://localhost:8080/joke/joke (GET)
