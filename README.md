@@ -12,7 +12,7 @@ The response from the API is a single JSON object that looks like this:
  }
 
 
-/ {
+{
     "id": 98,
     "type": "general",
     "setup": "Did you hear the joke about the wandering nun?",
